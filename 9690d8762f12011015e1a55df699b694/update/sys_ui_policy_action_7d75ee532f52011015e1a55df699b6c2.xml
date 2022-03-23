@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>assigned_to</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 06:27:45</sys_created_on>
+        <sys_id>7d75ee532f52011015e1a55df699b6c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="CI/Cd Deployment" source="9690d8762f12011015e1a55df699b694">9690d8762f12011015e1a55df699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI/Cd Deployment">9690d8762f12011015e1a55df699b694</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7d75ee532f52011015e1a55df699b6c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 06:27:45</sys_updated_on>
+        <table>incident</table>
+        <ui_policy display_value="Assigned to get mandatory which assign to assignment group">90452e532f52011015e1a55df699b63a</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
